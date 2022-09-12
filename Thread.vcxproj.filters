@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="core">
+      <UniqueIdentifier>{c260607a-fe95-4bb6-905a-136183c9ee82}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Core\threads.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Core\Program1\program1.h" />
+    <ClInclude Include="Core\Program2\program2.h" />
+  </ItemGroup>
+</Project>
