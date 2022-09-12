@@ -1,0 +1,12 @@
+﻿  threads.cpp
+C:\Users\gabriel.prates\Desktop\Thread\Core\Program1\program1.h(135,46): warning C4244: '=': conversão de '_Rep' para 'float', possível perda de dados
+          with
+          [
+              _Rep=double
+          ]
+C:\Users\gabriel.prates\Desktop\Thread\Core\Program2\program2.h(116,46): warning C4244: '=': conversão de '_Rep' para 'float', possível perda de dados
+          with
+          [
+              _Rep=double
+          ]
+  Thread.vcxproj -> C:\Users\gabriel.prates\Desktop\Thread\x64\Debug\Thread.exe
